@@ -11,7 +11,7 @@ body {
 }
 
 .container {
-  margin: 50px 0 0 100px;
+  margin: 20px 0 0 100px;
   display: flex;
 }
 
@@ -75,11 +75,11 @@ body {
 }
 
 .tile.job .header {
-  background: linear-gradient(to bottom right, #add9e4, #87bc27);
+  background: linear-gradient(to bottom right, #add9e4, #9dc6cc);
 }
 
 .tile.job .body {
-  color: #609931;
+  color: rgb(1, 24, 24);
 }
 
 .tile.resource .header {
